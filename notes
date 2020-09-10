@@ -1,0 +1,23 @@
+HTTP    English                 SQL
+---     -----                   ---
+GET     Get a list of Songs     SELECT
+POST    Create a new Song       INSERT
+DELETE  Remove a song           DELETE
+PUT     Modify an existing song UPDATE
+
+
+CRUD
+----
+Create
+Read
+Update
+Delete
+
+Standard API Endpoints
+Server Checklist
+-------
+GET /monkeys            List monkeys
+GET /monkeys/:id        Get a monkey by id
+POST /monkeys           Create a monkey
+PUT /monkeys/:id        Update a monkey by id
+DELETE /monkeys/:id     Delete a monkey by id

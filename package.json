@@ -13,5 +13,13 @@
   "dependencies": {
     "express": "^4.17.1",
     "pg": "^8.3.3"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashleyberry/tarjanFullStackIntro.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ashleyberry/tarjanFullStackIntro/issues"
+  },
+  "homepage": "https://github.com/ashleyberry/tarjanFullStackIntro#readme"
 }
